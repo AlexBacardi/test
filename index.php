@@ -9,5 +9,9 @@
 <body>
     <h1>Lorem ipsum dolor sit amet.</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit, et.</p>
+    <a href="#">link1</a>
+    <a href="#">link2</a>
+    <a href="#">link3</a>
+    <a href="#">link4</a>
 </body>
 </html>
